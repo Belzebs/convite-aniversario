@@ -1,5 +1,5 @@
 // PERSONALIZE AQUI: troque a URL abaixo pelo link real do formulário de confirmação.
-const RSVP_URL = "https://example.com";
+const RSVP_URL = "https://convitin.com.br/aniversario-do-antony-9/";
 
 // Carrosséis simples: avançam um cartão por vez e voltam ao início ao chegar ao fim.
 function setupCarousel(trackId, dotsId = null) {
