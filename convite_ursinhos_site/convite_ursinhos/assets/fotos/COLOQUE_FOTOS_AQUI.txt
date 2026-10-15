@@ -1,1 +1,0 @@
-Coloque suas fotos nesta pasta. Depois ajuste os caminhos das imagens no index.html.
